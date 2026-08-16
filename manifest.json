@@ -1,10 +1,9 @@
 {
-  "name": "لوحتي - Mawlawti",
-  "short_name": "لوحتي",
-  "description": "لوحة تحكم الأعمال الشخصية",
+  "name": "Mawlawti - Smart Growth Dashboard",
+  "short_name": "Mawlawti",
+  "description": "Personal business dashboard with AI advisor",
   "start_url": "/",
   "display": "standalone",
-  "scope": "/",
   "background_color": "#000000",
   "theme_color": "#000000",
   "orientation": "portrait-primary",
